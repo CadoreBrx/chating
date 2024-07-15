@@ -1,0 +1,14 @@
+deploy_password=PbxK1064@cadore
+mysql_root_password=PbxK1064@cadore
+db_pass=PbxK1064@cadore
+pg_pass=PbxK1064@Alcatel
+redis_pass=PbxK1064@cadore
+rabbit_pass=PbxK1064@cadore
+deploy_email=cadorepereira@gmail.com
+repositorio=https://github.com/alcatele/izing.open.io.git
+nome_instancia=facilityai
+porta_postgre_intancia=5432
+frontend_url=app.facilityai.com.br
+frontend_porta=4000
+backend_url=api.facilityai.com.br
+backend_porta=3000
